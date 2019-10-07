@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yeiphaitii.lawofquality.com/sitemap.xml
